@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @rafilds66
 - 👀 I’m interested in HTML5, CSS3, JavaScript, React, Node.js,SQL & Python 
-- 🌱 I’m currently learning HTML5, CSS3, JavaScript
+- 🌱 I’m currently learning HTML5, CSS3, JavaScript, Python3
 - 💞️ I’m looking to collaborate on any project...
 
  <div>
