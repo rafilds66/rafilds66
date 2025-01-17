@@ -11,6 +11,12 @@
 - 🌱 I’m currently learning HTML5, CSS3, JavaScript, Python3
 - 💞️ I’m looking to collaborate on any project...
 
+<div>
+  <a href="https://github.com/rafilds66">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafilds66&show_icons=true&theme=radical"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafilds66&layout=compact&langs_count=16&theme=radical"/>
+</div>
+
  <div>
    <a href="https://github.com/rafilds66">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafilds66&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
