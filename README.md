@@ -11,11 +11,6 @@
 - 🌱 I’m currently learning HTML5, CSS3, JavaScript, Python3
 - 💞️ I’m looking to collaborate on any project...
 
-<div>
-  <a href="https://github.com/rafilds66">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafilds66&show_icons=true&theme=radical"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafilds66&layout=compact&langs_count=16&theme=radical"/>
-</div>
 
  <div>
    <a href="https://github.com/rafilds66">
@@ -27,6 +22,10 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img aling="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+  <img aling="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img aling="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+  <img aling="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
 </div>
  
 <br>
